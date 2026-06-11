@@ -1,0 +1,3954 @@
+[
+  {
+    "prompt_id": "history_020",
+    "domain": "history",
+    "difficulty": "hard",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_020",
+    "domain": "history",
+    "difficulty": "hard",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "finance_013",
+    "domain": "finance",
+    "difficulty": "medium",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_013",
+    "domain": "finance",
+    "difficulty": "medium",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_018",
+    "domain": "finance",
+    "difficulty": "hard",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_018",
+    "domain": "finance",
+    "difficulty": "hard",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "technology_010",
+    "domain": "technology",
+    "difficulty": "medium",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "technology_010",
+    "domain": "technology",
+    "difficulty": "medium",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "finance_008",
+    "domain": "finance",
+    "difficulty": "easy",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_008",
+    "domain": "finance",
+    "difficulty": "easy",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "technology_005",
+    "domain": "technology",
+    "difficulty": "easy",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_005",
+    "domain": "technology",
+    "difficulty": "easy",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_014",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 2,
+    "label_counts": {
+      "NOT ENOUGH INFO": 2
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_014",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_002",
+    "domain": "science",
+    "difficulty": "easy",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_002",
+    "domain": "science",
+    "difficulty": "easy",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "finance_006",
+    "domain": "finance",
+    "difficulty": "easy",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "finance_006",
+    "domain": "finance",
+    "difficulty": "easy",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "technology_007",
+    "domain": "technology",
+    "difficulty": "easy",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_007",
+    "domain": "technology",
+    "difficulty": "easy",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_001",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_001",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_020",
+    "domain": "biography",
+    "difficulty": "hard",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_020",
+    "domain": "biography",
+    "difficulty": "hard",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_017",
+    "domain": "science",
+    "difficulty": "hard",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_017",
+    "domain": "science",
+    "difficulty": "hard",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_014",
+    "domain": "science",
+    "difficulty": "medium",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_014",
+    "domain": "science",
+    "difficulty": "medium",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_010",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_010",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_002",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_002",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 7,
+    "label_counts": {
+      "NOT ENOUGH INFO": 7
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_017",
+    "domain": "biography",
+    "difficulty": "hard",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 6,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5,
+      "CONTRADICTED": 1
+    },
+    "factuality_score": 0.4166666666666667
+  },
+  {
+    "prompt_id": "biography_017",
+    "domain": "biography",
+    "difficulty": "hard",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_015",
+    "domain": "history",
+    "difficulty": "medium",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_015",
+    "domain": "history",
+    "difficulty": "medium",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_017",
+    "domain": "technology",
+    "difficulty": "hard",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "technology_017",
+    "domain": "technology",
+    "difficulty": "hard",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "finance_020",
+    "domain": "finance",
+    "difficulty": "hard",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "finance_020",
+    "domain": "finance",
+    "difficulty": "hard",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_018",
+    "domain": "history",
+    "difficulty": "hard",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_018",
+    "domain": "history",
+    "difficulty": "hard",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "history_004",
+    "domain": "history",
+    "difficulty": "easy",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_004",
+    "domain": "history",
+    "difficulty": "easy",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "finance_014",
+    "domain": "finance",
+    "difficulty": "medium",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_014",
+    "domain": "finance",
+    "difficulty": "medium",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_015",
+    "domain": "science",
+    "difficulty": "medium",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 2,
+    "label_counts": {
+      "NOT ENOUGH INFO": 2
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_015",
+    "domain": "science",
+    "difficulty": "medium",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_003",
+    "domain": "science",
+    "difficulty": "easy",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_003",
+    "domain": "science",
+    "difficulty": "easy",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_020",
+    "domain": "history",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 0.025,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "finance_013",
+    "domain": "finance",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.025,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_018",
+    "domain": "finance",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 0.025,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_010",
+    "domain": "technology",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.025,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_008",
+    "domain": "finance",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.025,
+    "num_facts": 6,
+    "label_counts": {
+      "NOT ENOUGH INFO": 6
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_005",
+    "domain": "technology",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.025,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_014",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.025,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_002",
+    "domain": "science",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.025,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_006",
+    "domain": "finance",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.025,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_007",
+    "domain": "technology",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.025,
+    "num_facts": 2,
+    "label_counts": {
+      "NOT ENOUGH INFO": 2
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_001",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.025,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_020",
+    "domain": "biography",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 0.025,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_017",
+    "domain": "science",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 0.025,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_014",
+    "domain": "science",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.025,
+    "num_facts": 2,
+    "label_counts": {
+      "NOT ENOUGH INFO": 2
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_010",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.025,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_002",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.025,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_017",
+    "domain": "biography",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 0.025,
+    "num_facts": 6,
+    "label_counts": {
+      "NOT ENOUGH INFO": 6
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "history_015",
+    "domain": "history",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.025,
+    "num_facts": 2,
+    "label_counts": {
+      "NOT ENOUGH INFO": 2
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_017",
+    "domain": "technology",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 0.025,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_020",
+    "domain": "finance",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 0.025,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "history_018",
+    "domain": "history",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 0.025,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_004",
+    "domain": "history",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.025,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_014",
+    "domain": "finance",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.025,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_015",
+    "domain": "science",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.025,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_003",
+    "domain": "science",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.025,
+    "num_facts": 6,
+    "label_counts": {
+      "NOT ENOUGH INFO": 6
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "history_020",
+    "domain": "history",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_013",
+    "domain": "finance",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_018",
+    "domain": "finance",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 2,
+    "label_counts": {
+      "NOT ENOUGH INFO": 2
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_010",
+    "domain": "technology",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 2,
+    "label_counts": {
+      "NOT ENOUGH INFO": 2
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_008",
+    "domain": "finance",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_005",
+    "domain": "technology",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_014",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_002",
+    "domain": "science",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 7,
+    "label_counts": {
+      "NOT ENOUGH INFO": 7
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_006",
+    "domain": "finance",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_007",
+    "domain": "technology",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 6,
+    "label_counts": {
+      "NOT ENOUGH INFO": 6
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_001",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_020",
+    "domain": "biography",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_017",
+    "domain": "science",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_014",
+    "domain": "science",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_010",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 2,
+    "label_counts": {
+      "NOT ENOUGH INFO": 2
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_002",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 6,
+    "label_counts": {
+      "NOT ENOUGH INFO": 6
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_017",
+    "domain": "biography",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "history_015",
+    "domain": "history",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 2,
+    "label_counts": {
+      "NOT ENOUGH INFO": 2
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_017",
+    "domain": "technology",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_020",
+    "domain": "finance",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "history_018",
+    "domain": "history",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 6,
+    "label_counts": {
+      "NOT ENOUGH INFO": 6
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "history_004",
+    "domain": "history",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 2,
+    "label_counts": {
+      "NOT ENOUGH INFO": 2
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_014",
+    "domain": "finance",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_015",
+    "domain": "science",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_003",
+    "domain": "science",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 7,
+    "label_counts": {
+      "NOT ENOUGH INFO": 7
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "history_020",
+    "domain": "history",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_013",
+    "domain": "finance",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_018",
+    "domain": "finance",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 6,
+    "label_counts": {
+      "NOT ENOUGH INFO": 6
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_010",
+    "domain": "technology",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_008",
+    "domain": "finance",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_005",
+    "domain": "technology",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_014",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_002",
+    "domain": "science",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_006",
+    "domain": "finance",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_007",
+    "domain": "technology",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_001",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_020",
+    "domain": "biography",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_017",
+    "domain": "science",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_014",
+    "domain": "science",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_010",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 2,
+    "label_counts": {
+      "NOT ENOUGH INFO": 2
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_002",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_017",
+    "domain": "biography",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "history_015",
+    "domain": "history",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "technology_017",
+    "domain": "technology",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 2,
+    "label_counts": {
+      "NOT ENOUGH INFO": 2
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_020",
+    "domain": "finance",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_018",
+    "domain": "history",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "history_004",
+    "domain": "history",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_014",
+    "domain": "finance",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_015",
+    "domain": "science",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 2,
+    "label_counts": {
+      "NOT ENOUGH INFO": 2
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_003",
+    "domain": "science",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "history_020",
+    "domain": "history",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_013",
+    "domain": "finance",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_018",
+    "domain": "finance",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "technology_010",
+    "domain": "technology",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "finance_008",
+    "domain": "finance",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_005",
+    "domain": "technology",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_014",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 2,
+    "label_counts": {
+      "NOT ENOUGH INFO": 2
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_002",
+    "domain": "science",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_006",
+    "domain": "finance",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "technology_007",
+    "domain": "technology",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_001",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_020",
+    "domain": "biography",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_017",
+    "domain": "science",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_014",
+    "domain": "science",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 6,
+    "label_counts": {
+      "NOT ENOUGH INFO": 6
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_010",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_002",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_017",
+    "domain": "biography",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "history_015",
+    "domain": "history",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_017",
+    "domain": "technology",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "finance_020",
+    "domain": "finance",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "history_018",
+    "domain": "history",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "history_004",
+    "domain": "history",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_014",
+    "domain": "finance",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 7,
+    "label_counts": {
+      "NOT ENOUGH INFO": 7
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_015",
+    "domain": "science",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_003",
+    "domain": "science",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_020",
+    "domain": "history",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "finance_013",
+    "domain": "finance",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_018",
+    "domain": "finance",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 2,
+    "label_counts": {
+      "NOT ENOUGH INFO": 2
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_010",
+    "domain": "technology",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 6,
+    "label_counts": {
+      "NOT ENOUGH INFO": 6
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_008",
+    "domain": "finance",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "technology_005",
+    "domain": "technology",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_014",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_002",
+    "domain": "science",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "finance_006",
+    "domain": "finance",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_007",
+    "domain": "technology",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_001",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_020",
+    "domain": "biography",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_017",
+    "domain": "science",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_014",
+    "domain": "science",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_010",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_002",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_017",
+    "domain": "biography",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "history_015",
+    "domain": "history",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_017",
+    "domain": "technology",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_020",
+    "domain": "finance",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "history_018",
+    "domain": "history",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_004",
+    "domain": "history",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_014",
+    "domain": "finance",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 6,
+    "label_counts": {
+      "NOT ENOUGH INFO": 6
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_015",
+    "domain": "science",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_003",
+    "domain": "science",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_020",
+    "domain": "history",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 10.0,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_013",
+    "domain": "finance",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 10.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "finance_018",
+    "domain": "finance",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 10.0,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_010",
+    "domain": "technology",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 10.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "finance_008",
+    "domain": "finance",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 10.0,
+    "num_facts": 2,
+    "label_counts": {
+      "NOT ENOUGH INFO": 2
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_005",
+    "domain": "technology",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 10.0,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_014",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 10.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_002",
+    "domain": "science",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 10.0,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_006",
+    "domain": "finance",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 10.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_007",
+    "domain": "technology",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 10.0,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_001",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 10.0,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_020",
+    "domain": "biography",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 10.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_017",
+    "domain": "science",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 10.0,
+    "num_facts": 6,
+    "label_counts": {
+      "NOT ENOUGH INFO": 6
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_014",
+    "domain": "science",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 10.0,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_010",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 10.0,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_002",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 10.0,
+    "num_facts": 2,
+    "label_counts": {
+      "NOT ENOUGH INFO": 2
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_017",
+    "domain": "biography",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 10.0,
+    "num_facts": 6,
+    "label_counts": {
+      "NOT ENOUGH INFO": 6
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "history_015",
+    "domain": "history",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 10.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_017",
+    "domain": "technology",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 10.0,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_020",
+    "domain": "finance",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 10.0,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "history_018",
+    "domain": "history",
+    "difficulty": "hard",
+    "method": "anchored",
+    "k": 10.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "history_004",
+    "domain": "history",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 10.0,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_014",
+    "domain": "finance",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 10.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_015",
+    "domain": "science",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 10.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_003",
+    "domain": "science",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 10.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_020",
+    "domain": "history",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 0.025,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "finance_013",
+    "domain": "finance",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 0.025,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_018",
+    "domain": "finance",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 0.025,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_010",
+    "domain": "technology",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 0.025,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_008",
+    "domain": "finance",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 0.025,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_005",
+    "domain": "technology",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 0.025,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_014",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 0.025,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_002",
+    "domain": "science",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 0.025,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_006",
+    "domain": "finance",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 0.025,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "technology_007",
+    "domain": "technology",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 0.025,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_001",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 0.025,
+    "num_facts": 6,
+    "label_counts": {
+      "NOT ENOUGH INFO": 6
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_020",
+    "domain": "biography",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 0.025,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_017",
+    "domain": "science",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 0.025,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_014",
+    "domain": "science",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 0.025,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_010",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 0.025,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_002",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 0.025,
+    "num_facts": 2,
+    "label_counts": {
+      "NOT ENOUGH INFO": 2
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_017",
+    "domain": "biography",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 0.025,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_015",
+    "domain": "history",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 0.025,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "technology_017",
+    "domain": "technology",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 0.025,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_020",
+    "domain": "finance",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 0.025,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_018",
+    "domain": "history",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 0.025,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_004",
+    "domain": "history",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 0.025,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_014",
+    "domain": "finance",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 0.025,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_015",
+    "domain": "science",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 0.025,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_003",
+    "domain": "science",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 0.025,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "history_020",
+    "domain": "history",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 0.1,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "finance_013",
+    "domain": "finance",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 0.1,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_018",
+    "domain": "finance",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 0.1,
+    "num_facts": 2,
+    "label_counts": {
+      "NOT ENOUGH INFO": 2
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_010",
+    "domain": "technology",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 0.1,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_008",
+    "domain": "finance",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 0.1,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_005",
+    "domain": "technology",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 0.1,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_014",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 0.1,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_002",
+    "domain": "science",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 0.1,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_006",
+    "domain": "finance",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 0.1,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "technology_007",
+    "domain": "technology",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 0.1,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_001",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 0.1,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_020",
+    "domain": "biography",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 0.1,
+    "num_facts": 2,
+    "label_counts": {
+      "NOT ENOUGH INFO": 2
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_017",
+    "domain": "science",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 0.1,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_014",
+    "domain": "science",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 0.1,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_010",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 0.1,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_002",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 0.1,
+    "num_facts": 2,
+    "label_counts": {
+      "NOT ENOUGH INFO": 2
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_017",
+    "domain": "biography",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 0.1,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_015",
+    "domain": "history",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 0.1,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "technology_017",
+    "domain": "technology",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 0.1,
+    "num_facts": 2,
+    "label_counts": {
+      "NOT ENOUGH INFO": 2
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_020",
+    "domain": "finance",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 0.1,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "history_018",
+    "domain": "history",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 0.1,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_004",
+    "domain": "history",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 0.1,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_014",
+    "domain": "finance",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 0.1,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_015",
+    "domain": "science",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 0.1,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_003",
+    "domain": "science",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 0.1,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_020",
+    "domain": "history",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 0.5,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "finance_013",
+    "domain": "finance",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 0.5,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_018",
+    "domain": "finance",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 0.5,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "technology_010",
+    "domain": "technology",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 0.5,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_008",
+    "domain": "finance",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 0.5,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "technology_005",
+    "domain": "technology",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 0.5,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_014",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 0.5,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_002",
+    "domain": "science",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 0.5,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_006",
+    "domain": "finance",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 0.5,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "technology_007",
+    "domain": "technology",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 0.5,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_001",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 0.5,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_020",
+    "domain": "biography",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 0.5,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_017",
+    "domain": "science",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 0.5,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_014",
+    "domain": "science",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 0.5,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_010",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 0.5,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_002",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 0.5,
+    "num_facts": 2,
+    "label_counts": {
+      "NOT ENOUGH INFO": 2
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_017",
+    "domain": "biography",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 0.5,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_015",
+    "domain": "history",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 0.5,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "technology_017",
+    "domain": "technology",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 0.5,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_020",
+    "domain": "finance",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 0.5,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "history_018",
+    "domain": "history",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 0.5,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_004",
+    "domain": "history",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 0.5,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_014",
+    "domain": "finance",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 0.5,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_015",
+    "domain": "science",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 0.5,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_003",
+    "domain": "science",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 0.5,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_020",
+    "domain": "history",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "finance_013",
+    "domain": "finance",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 1.0,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_018",
+    "domain": "finance",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "technology_010",
+    "domain": "technology",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 1.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_008",
+    "domain": "finance",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "technology_005",
+    "domain": "technology",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 1.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_014",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_002",
+    "domain": "science",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 1.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_006",
+    "domain": "finance",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "technology_007",
+    "domain": "technology",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 1.0,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_001",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 1.0,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_020",
+    "domain": "biography",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 1.0,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_017",
+    "domain": "science",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_014",
+    "domain": "science",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 1.0,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_010",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_002",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 1.0,
+    "num_facts": 8,
+    "label_counts": {
+      "NOT ENOUGH INFO": 8
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_017",
+    "domain": "biography",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_015",
+    "domain": "history",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 1.0,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_017",
+    "domain": "technology",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 1.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_020",
+    "domain": "finance",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 1.0,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "history_018",
+    "domain": "history",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_004",
+    "domain": "history",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 1.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_014",
+    "domain": "finance",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_015",
+    "domain": "science",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 1.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_003",
+    "domain": "science",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_020",
+    "domain": "history",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "finance_013",
+    "domain": "finance",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 2.0,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_018",
+    "domain": "finance",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "technology_010",
+    "domain": "technology",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 2.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_008",
+    "domain": "finance",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "technology_005",
+    "domain": "technology",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 2.0,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_014",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_002",
+    "domain": "science",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 2.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_006",
+    "domain": "finance",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "technology_007",
+    "domain": "technology",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 2.0,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_001",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 2.0,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_020",
+    "domain": "biography",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_017",
+    "domain": "science",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 2.0,
+    "num_facts": 2,
+    "label_counts": {
+      "NOT ENOUGH INFO": 2
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_014",
+    "domain": "science",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_010",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_002",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 2.0,
+    "num_facts": 13,
+    "label_counts": {
+      "NOT ENOUGH INFO": 13
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_017",
+    "domain": "biography",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_015",
+    "domain": "history",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 2.0,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_017",
+    "domain": "technology",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 2.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_020",
+    "domain": "finance",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_018",
+    "domain": "history",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_004",
+    "domain": "history",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 2.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_014",
+    "domain": "finance",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_015",
+    "domain": "science",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 2.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_003",
+    "domain": "science",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_020",
+    "domain": "history",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 10.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "finance_013",
+    "domain": "finance",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 10.0,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_018",
+    "domain": "finance",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 10.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "technology_010",
+    "domain": "technology",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 10.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_008",
+    "domain": "finance",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 10.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "technology_005",
+    "domain": "technology",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 10.0,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_014",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 10.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_002",
+    "domain": "science",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 10.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_006",
+    "domain": "finance",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 10.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "technology_007",
+    "domain": "technology",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 10.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_001",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 10.0,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_020",
+    "domain": "biography",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 10.0,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_017",
+    "domain": "science",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 10.0,
+    "num_facts": 3,
+    "label_counts": {
+      "NOT ENOUGH INFO": 3
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_014",
+    "domain": "science",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 10.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_010",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 10.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_002",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 10.0,
+    "num_facts": 11,
+    "label_counts": {
+      "NOT ENOUGH INFO": 11
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_017",
+    "domain": "biography",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 10.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_015",
+    "domain": "history",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 10.0,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "technology_017",
+    "domain": "technology",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 10.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_020",
+    "domain": "finance",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 10.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "history_018",
+    "domain": "history",
+    "difficulty": "hard",
+    "method": "logit_mixing",
+    "k": 10.0,
+    "num_facts": 5,
+    "label_counts": {
+      "NOT ENOUGH INFO": 5
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "history_004",
+    "domain": "history",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 10.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "finance_014",
+    "domain": "finance",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 10.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "science_015",
+    "domain": "science",
+    "difficulty": "medium",
+    "method": "logit_mixing",
+    "k": 10.0,
+    "num_facts": 1,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "science_003",
+    "domain": "science",
+    "difficulty": "easy",
+    "method": "logit_mixing",
+    "k": 10.0,
+    "num_facts": 2,
+    "label_counts": {
+      "NOT ENOUGH INFO": 1,
+      "CONTRADICTED": 1
+    },
+    "factuality_score": 0.25
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "method": "anchored_k=0.025",
+    "mean_factuality_score": 0.44,
+    "num_generations": 25
+  },
+  {
+    "method": "anchored_k=0.1",
+    "mean_factuality_score": 0.46,
+    "num_generations": 25
+  },
+  {
+    "method": "anchored_k=0.5",
+    "mean_factuality_score": 0.46,
+    "num_generations": 25
+  },
+  {
+    "method": "anchored_k=1.0",
+    "mean_factuality_score": 0.36,
+    "num_generations": 25
+  },
+  {
+    "method": "anchored_k=10.0",
+    "mean_factuality_score": 0.42,
+    "num_generations": 25
+  },
+  {
+    "method": "anchored_k=2.0",
+    "mean_factuality_score": 0.34,
+    "num_generations": 25
+  },
+  {
+    "method": "llama3.1-8b",
+    "mean_factuality_score": 0.12,
+    "num_generations": 25
+  },
+  {
+    "method": "logit_mixing_k=0.025",
+    "mean_factuality_score": 0.28,
+    "num_generations": 25
+  },
+  {
+    "method": "logit_mixing_k=0.1",
+    "mean_factuality_score": 0.3,
+    "num_generations": 25
+  },
+  {
+    "method": "logit_mixing_k=0.5",
+    "mean_factuality_score": 0.26,
+    "num_generations": 25
+  },
+  {
+    "method": "logit_mixing_k=1.0",
+    "mean_factuality_score": 0.28,
+    "num_generations": 25
+  },
+  {
+    "method": "logit_mixing_k=10.0",
+    "mean_factuality_score": 0.27,
+    "num_generations": 25
+  },
+  {
+    "method": "logit_mixing_k=2.0",
+    "mean_factuality_score": 0.24,
+    "num_generations": 25
+  },
+  {
+    "method": "tinycomma",
+    "mean_factuality_score": 0.25666666666666665,
+    "num_generations": 25
+  }
+]

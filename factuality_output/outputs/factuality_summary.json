@@ -1,0 +1,37 @@
+[
+  {
+    "method": "anchored_k=0.1",
+    "mean_factuality_score": 0.1,
+    "num_generations": 15
+  },
+  {
+    "method": "anchored_k=0.5",
+    "mean_factuality_score": 0.1,
+    "num_generations": 15
+  },
+  {
+    "method": "anchored_k=1.0",
+    "mean_factuality_score": 0.06666666666666667,
+    "num_generations": 15
+  },
+  {
+    "method": "anchored_k=2.0",
+    "mean_factuality_score": 0.03333333333333333,
+    "num_generations": 15
+  },
+  {
+    "method": "anchored_k=4.0",
+    "mean_factuality_score": 0.1,
+    "num_generations": 15
+  },
+  {
+    "method": "llama3.1-8b",
+    "mean_factuality_score": 0.13333333333333333,
+    "num_generations": 15
+  },
+  {
+    "method": "tinycomma",
+    "mean_factuality_score": 0.06666666666666667,
+    "num_generations": 15
+  }
+]

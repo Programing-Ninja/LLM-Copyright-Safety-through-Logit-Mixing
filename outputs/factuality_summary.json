@@ -1,0 +1,62 @@
+[
+  {
+    "method": "anchored_k=0.1",
+    "mean_factuality_score": 0.4277777777777778,
+    "num_generations": 15
+  },
+  {
+    "method": "anchored_k=0.5",
+    "mean_factuality_score": 0.39333333333333337,
+    "num_generations": 15
+  },
+  {
+    "method": "anchored_k=1.0",
+    "mean_factuality_score": 0.39166666666666666,
+    "num_generations": 15
+  },
+  {
+    "method": "anchored_k=2.0",
+    "mean_factuality_score": 0.39333333333333337,
+    "num_generations": 15
+  },
+  {
+    "method": "anchored_k=4.0",
+    "mean_factuality_score": 0.43333333333333335,
+    "num_generations": 15
+  },
+  {
+    "method": "llama3.1-8b",
+    "mean_factuality_score": 0.36666666666666664,
+    "num_generations": 15
+  },
+  {
+    "method": "logit_mixing_k=0.1",
+    "mean_factuality_score": 0.36666666666666664,
+    "num_generations": 15
+  },
+  {
+    "method": "logit_mixing_k=0.5",
+    "mean_factuality_score": 0.32111111111111107,
+    "num_generations": 15
+  },
+  {
+    "method": "logit_mixing_k=1.0",
+    "mean_factuality_score": 0.3266666666666667,
+    "num_generations": 15
+  },
+  {
+    "method": "logit_mixing_k=2.0",
+    "mean_factuality_score": 0.32222222222222224,
+    "num_generations": 15
+  },
+  {
+    "method": "logit_mixing_k=4.0",
+    "mean_factuality_score": 0.3527777777777778,
+    "num_generations": 15
+  },
+  {
+    "method": "tinycomma",
+    "mean_factuality_score": 0.34444444444444444,
+    "num_generations": 15
+  }
+]

@@ -1,0 +1,1088 @@
+[
+  {
+    "prompt_id": "biography_001",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_001",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_002",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_002",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_003",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_003",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_004",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_004",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_005",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 10,
+    "label_counts": {
+      "NOT ENOUGH INFO": 10
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_005",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_006",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_006",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_007",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_007",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_008",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_008",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_009",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_009",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_010",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_010",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 10,
+    "label_counts": {
+      "NOT ENOUGH INFO": 10
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_011",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_011",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_012",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 10,
+    "label_counts": {
+      "NOT ENOUGH INFO": 10
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_012",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_013",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_013",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_014",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_014",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_015",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "tinycomma",
+    "k": null,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_015",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "llama3.1-8b",
+    "k": null,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_001",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_002",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 7,
+    "label_counts": {
+      "NOT ENOUGH INFO": 7
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_003",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_004",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_005",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_006",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_007",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_008",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_009",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_010",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_011",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_012",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_013",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_014",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_015",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.1,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_001",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_002",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_003",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_004",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_005",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_006",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_007",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_008",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_009",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_010",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_011",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_012",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_013",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_014",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_015",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 0.5,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_001",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_002",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_003",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_004",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_005",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_006",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_007",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_008",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_009",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_010",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_011",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_012",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_013",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_014",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_015",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 1.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_001",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_002",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_003",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_004",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_005",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_006",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_007",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_008",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_009",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_010",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_011",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_012",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_013",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_014",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_015",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 2.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_001",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 4.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_002",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 4.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_003",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 4.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_004",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 4.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_005",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 4.0,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_006",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 4.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_007",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 4.0,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_008",
+    "domain": "biography",
+    "difficulty": "easy",
+    "method": "anchored",
+    "k": 4.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_009",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 4.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_010",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 4.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_011",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 4.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_012",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 4.0,
+    "num_facts": 4,
+    "label_counts": {
+      "NOT ENOUGH INFO": 4
+    },
+    "factuality_score": 0.5
+  },
+  {
+    "prompt_id": "biography_013",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 4.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_014",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 4.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  },
+  {
+    "prompt_id": "biography_015",
+    "domain": "biography",
+    "difficulty": "medium",
+    "method": "anchored",
+    "k": 4.0,
+    "num_facts": 0,
+    "label_counts": {},
+    "factuality_score": 0.0
+  }
+]

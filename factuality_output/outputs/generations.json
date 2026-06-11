@@ -1,0 +1,947 @@
+[
+  {
+    "prompt_id": "biography_001",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Provide a comprehensive account of Albert Einstein's life, including his early education, major scientific contributions, personal relationships, immigration to the United States, and his role in the development of modern physics.",
+    "method": "tinycomma",
+    "ncr": 1.0,
+    "output": "Describe the scientific legacy of Einstein, and his influence on the world of science and technology.\nEinstein was born in 1879 in Austria-Hungary, the son of Jewish parents. He was raised in Vienna, where he attended the University of Vienna, where he studied physics and mathematics. He received his doctorate in 1901, and began working as a physicist at the University of Vienna. He was a pioneer in the field of quantum mechanics, and is credited with developing the theory of relativity. He also made significant contributions to the field of optics, and was a pioneer in the field of quantum electronics. Einstein was a"
+  },
+  {
+    "prompt_id": "biography_001",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Provide a comprehensive account of Albert Einstein's life, including his early education, major scientific contributions, personal relationships, immigration to the United States, and his role in the development of modern physics.",
+    "method": "llama3.1-8b",
+    "ncr": 0.0,
+    "output": "Highlight his groundbreaking theories, such as the theory of relativity and the photoelectric effect, and their impact on the scientific community. Discuss his involvement in the Manhattan Project and his opposition to nuclear weapons. Explore his political views, including his support for Zionism and his criticism of the United States' foreign policy. Analyze his contributions to the field of quantum mechanics and his role in the development of the theory of general relativity. Evaluate his legacy and influence on modern physics and the scientific community.\nAlbert Einstein was a German-born theoretical physicist who developed the theory of relativity and made significant contributions to the field of quantum mechanics. He is widely"
+  },
+  {
+    "prompt_id": "biography_002",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Describe the life and career of Marie Curie, covering her upbringing in Poland, her move to Paris, her scientific discoveries, the Nobel Prizes she received, and the circumstances of her death.",
+    "method": "tinycomma",
+    "ncr": 1.0,
+    "output": "Include a brief summary of her legacy.\nMarie Curie was born in 1907 in Poland, the daughter of a Jewish family. She was raised in a religious household and was exposed to the ideas of her parents and her grandmother, who were both physicists. She attended a girls' school in Warsaw, where she was exposed to the ideas of her father, who was a physicist and a member of the Polish Academy of Sciences. She was also exposed to the ideas of her mother, who was a chemist and a member of the Polish Academy of Sciences. She was exposed to the ideas of her grandmother, who was a physicist and"
+  },
+  {
+    "prompt_id": "biography_002",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Describe the life and career of Marie Curie, covering her upbringing in Poland, her move to Paris, her scientific discoveries, the Nobel Prizes she received, and the circumstances of her death.",
+    "method": "llama3.1-8b",
+    "ncr": 0.0,
+    "output": "Include a discussion of her contributions to the field of radioactivity.\nMarie Curie was born Maria Sklodowska in Warsaw, Poland, on November 7, 1867. Her parents were teachers, and she was the youngest of their five children. She was a bright student, and her father encouraged her to study science. She attended a private school for girls, where she studied mathematics, physics, and chemistry. She also attended a university in Warsaw, where she earned a degree in physics.\nIn 1891, Marie Curie moved to Paris, where she attended the Sorbonne, a prestigious university. She earned"
+  },
+  {
+    "prompt_id": "biography_003",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Write a detailed biographical account of Charles Darwin, including his voyage on HMS Beagle, the development of his theory of natural selection, the publication of 'On the Origin of Species,' and the public reaction to his ideas.",
+    "method": "tinycomma",
+    "ncr": 1.0,
+    "output": "Describe the impact of Darwin's work on the scientific community and society at large.\nCharles Darwin was a British naturalist and biologist who made significant contributions to the field of evolutionary biology. He was born in 1809 in Devon, England, and spent his early years in the countryside. He began studying natural history at the age of 12, and by the age of 16, he had completed his education and was able to travel to London to pursue a career in science.\n\nIn 1831, Darwin embarked on a voyage to the Cape of Good Hope, where he spent several months collecting specimens and studying the natural world. During this"
+  },
+  {
+    "prompt_id": "biography_003",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Write a detailed biographical account of Charles Darwin, including his voyage on HMS Beagle, the development of his theory of natural selection, the publication of 'On the Origin of Species,' and the public reaction to his ideas.",
+    "method": "llama3.1-8b",
+    "ncr": 0.0,
+    "output": "Also, discuss the impact of Darwin's work on the scientific community and the general public.\nCharles Darwin was a British naturalist who is widely regarded as the father of evolutionary theory. His theory of natural selection, which he developed during his voyage on HMS Beagle, revolutionized the field of biology and had a profound impact on the scientific community and the general public. Darwin's work on the origin of species and the mechanisms of evolution challenged the prevailing belief in a static, unchanging universe and paved the way for the modern understanding of the diversity of life on Earth.\nDarwin's voyage on HMS Beagle was a turning point in his life"
+  },
+  {
+    "prompt_id": "biography_004",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Describe the life of Mahatma Gandhi, including his early years in South Africa, his campaigns for Indian independence, his methods of nonviolent resistance, and the circumstances surrounding his assassination.",
+    "method": "tinycomma",
+    "ncr": 1.0,
+    "output": "Include any relevant quotes or information from his writings.\nMahatma Gandhi was born in 1869 in the village of Kesh in the state of Maharashtra in India. He was the second child of a poor farmer and his wife. His father was a poor farmer who was also a devout Hindu. Gandhi's mother was a devout Hindu who was also a poor farmer. Gandhi's father was a poor farmer who was also a devout Hindu. Gandhi's mother was a devout Hindu who was also a poor farmer. Gandhi's father was a poor farmer who was also a devout Hindu. Gandhi's mother was a devout Hindu who was also a poor"
+  },
+  {
+    "prompt_id": "biography_004",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Describe the life of Mahatma Gandhi, including his early years in South Africa, his campaigns for Indian independence, his methods of nonviolent resistance, and the circumstances surrounding his assassination.",
+    "method": "llama3.1-8b",
+    "ncr": 0.0,
+    "output": "(WORLD HISTORY)\nDescribe the life of Mahatma Gandhi, including his early years in South Africa, his campaigns for Indian independence, his methods of nonviolent resistance, and the circumstances surrounding his assassination. (WORLD HISTORY)\nDescribe the life of Mahatma Gandhi, including his early years in South Africa, his campaigns for Indian independence, his methods of nonviolent resistance, and the circumstances surrounding his assassination. (WORLD HISTORY)\nDescribe the life of Mahatma Gandhi, including his early years in South Africa, his campaigns for Indian independence, his methods of nonviolent resistance, and the circumstances surrounding his assassination. (W"
+  },
+  {
+    "prompt_id": "biography_005",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Provide a thorough overview of Abraham Lincoln's life, from his frontier childhood in Kentucky and Indiana, his self-education, his political career in Illinois, his presidency during the Civil War, and his assassination at Ford's Theatre.",
+    "method": "tinycomma",
+    "ncr": 1.0,
+    "output": ""
+  },
+  {
+    "prompt_id": "biography_005",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Provide a thorough overview of Abraham Lincoln's life, from his frontier childhood in Kentucky and Indiana, his self-education, his political career in Illinois, his presidency during the Civil War, and his assassination at Ford's Theatre.",
+    "method": "llama3.1-8b",
+    "ncr": 0.0,
+    "output": "This book also examines Lincoln's personal life, including his marriage to Mary Todd Lincoln and his relationship with his sons."
+  },
+  {
+    "prompt_id": "biography_006",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Describe the life and achievements of Leonardo da Vinci, covering his apprenticeship under Verrocchio, his major paintings and sculptures, his scientific notebooks, and his work in anatomy, engineering, and architecture.",
+    "method": "tinycomma",
+    "ncr": 1.0,
+    "output": "Describe the influence of Leonardo on the Renaissance, and his legacy.\nLeonardo da Vinci was a Renaissance man who was born in 1452. He was a master of the arts, and was a master of the arts in the Renaissance. He was a master of the arts in the Renaissance, and was a master of the arts in the Renaissance. He was a master of the arts in the Renaissance, and was a master of the arts in the Renaissance. He was a master of the arts in the Renaissance, and was a master of the arts in the Renaissance. He was a master of the arts in the Renaissance, and was a"
+  },
+  {
+    "prompt_id": "biography_006",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Describe the life and achievements of Leonardo da Vinci, covering his apprenticeship under Verrocchio, his major paintings and sculptures, his scientific notebooks, and his work in anatomy, engineering, and architecture.",
+    "method": "llama3.1-8b",
+    "ncr": 0.0,
+    "output": "(2000)\nLeonardo da Vinci was born on April 15, 1452, in the small town of Vinci, near Florence, Italy. His father, Ser Piero, was a notary and his mother, Caterina, was a peasant girl. Leonardo was the illegitimate son of Ser Piero and Caterina. He was raised by his father and stepmother, Francesca. He was given the name Leonardo da Vinci because he was born in Vinci. He was a very talented artist and scientist. He was also a very good engineer and architect. He was a very good painter and sculptor. He was a"
+  },
+  {
+    "prompt_id": "biography_007",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Provide a detailed account of Nikola Tesla's life, including his early education in Serbia, his work with Thomas Edison, his invention of the AC motor, his rivalry with Edison, and his later years in New York.",
+    "method": "tinycomma",
+    "ncr": 1.0,
+    "output": "Describe the Tesla family and their relationship to the Tesla family in New York. Describe the Tesla family's relationship to the Tesla family in Serbia. Describe the Tesla family's relationship to the Tesla family in the United States."
+  },
+  {
+    "prompt_id": "biography_007",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Provide a detailed account of Nikola Tesla's life, including his early education in Serbia, his work with Thomas Edison, his invention of the AC motor, his rivalry with Edison, and his later years in New York.",
+    "method": "llama3.1-8b",
+    "ncr": 0.0,
+    "output": "Also, discuss the impact of Tesla's work on modern technology and society.\nNikola Tesla was a Serbian-American inventor and engineer who made significant contributions to the fields of electricity and engineering. He is best known for his work with alternating current (AC) motors, which revolutionized the way we use electricity today. Tesla was born in 1856 in Smiljan, Austria-Hungary (now Croatia) and studied engineering at the University of Prague. After completing his studies, he moved to the United States in 1884 and began working for Thomas Edison's company. However, Tesla soon left Edison's company due to disagreements over"
+  },
+  {
+    "prompt_id": "biography_008",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Describe the life of Cleopatra VII, including her rise to power in Egypt, her political alliances with Julius Caesar and Mark Antony, the political circumstances of her reign, and the fall of the Ptolemaic dynasty.",
+    "method": "tinycomma",
+    "ncr": 1.0,
+    "output": "Describe the impact of her reign on the world, including the Roman Empire, the Hellenistic world, and the world at large.\nCleopatra VII was the daughter of Ptolemy XII Auletes and his wife Cleopatra Selene. She was born in 63 BC and was raised in Egypt. She was the first wife of Julius Caesar and the second wife of Mark Antony. She was the mother of Caesarion, Caesar's illegitimate son. She was the first wife of Mark Antony and the second wife of Caesar. She was the mother of Caesarion, Caesar's illegitimate son. She was the"
+  },
+  {
+    "prompt_id": "biography_008",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Describe the life of Cleopatra VII, including her rise to power in Egypt, her political alliances with Julius Caesar and Mark Antony, the political circumstances of her reign, and the fall of the Ptolemaic dynasty.",
+    "method": "llama3.1-8b",
+    "ncr": 0.0,
+    "output": "(40 points)\nCleopatra VII was the last ruler of the Ptolemaic dynasty, which had ruled Egypt for over three centuries. She was born in 69 BC and ascended to the throne in 51 BC after the death of her father, Ptolemy XII. Cleopatra was a skilled politician and diplomat, and she used her charm and intelligence to gain the support of the Roman leaders Julius Caesar and Mark Antony. She also had a strong military force, which she used to defend her kingdom against her enemies.\nCleopatra’s reign was marked by political instability and conflict. She was constantly"
+  },
+  {
+    "prompt_id": "biography_009",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Provide a detailed biographical account of Rosalind Franklin, including her education at Cambridge, her X-ray crystallography work at King's College London, her contributions to understanding the structure of DNA, and the controversy surrounding the use of her data by Watson and Crick.",
+    "method": "tinycomma",
+    "ncr": 1.0,
+    "output": "Describe the impact of her work on the field of molecular biology and the development of the scientific method.\nRosalind Franklin was a British scientist who made significant contributions to the field of molecular biology and the development of the scientific method. She was born in 1912 and studied at Cambridge University, where she received a Bachelor of Arts degree in 1934. Franklin then went on to receive a Master of Arts degree in 1936 and a Doctor of Philosophy degree in 1939, both from King's College London. Franklin's doctoral research focused on the structure of DNA, and she was awarded a Royal Society of London Fellowship in"
+  },
+  {
+    "prompt_id": "biography_009",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Provide a detailed biographical account of Rosalind Franklin, including her education at Cambridge, her X-ray crystallography work at King's College London, her contributions to understanding the structure of DNA, and the controversy surrounding the use of her data by Watson and Crick.",
+    "method": "llama3.1-8b",
+    "ncr": 0.0,
+    "output": "Discuss the significance of Franklin's work in the field of molecular biology and its impact on the scientific community.\nRosalind Franklin was a British biophysicist who made significant contributions to the understanding of the structure of DNA. She was born in 1920 in London and received her education at Cambridge University. After completing her studies, she worked as a research associate at King's College London, where she used X-ray crystallography to study the structure of DNA.\nFranklin's work was crucial in determining the double-helix structure of DNA, which was later confirmed by James Watson and Francis Crick. However, Franklin's contributions"
+  },
+  {
+    "prompt_id": "biography_010",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Describe the life and scientific legacy of Richard Feynman, including his role in the Manhattan Project, his development of quantum electrodynamics, his Feynman diagrams, his teaching career at Caltech, and his investigation of the Space Shuttle Challenger disaster.",
+    "method": "tinycomma",
+    "ncr": 1.0,
+    "output": "Describe the life and scientific legacy of Richard Feynman, including his role in the Manhattan Project, his development of quantum electrodynamics, his Feynman diagrams, his teaching career at Caltech, and his investigation of the Space Shuttle Challenger disaster.  Describe the life and scientific legacy of Richard Feynman, including his role in the Manhattan Project, his development of quantum electrodynamics, his Feynman diagrams, his teaching career at Caltech, and his investigation of the Space Shuttle Challenger disaster.  Describe the life and scientific legacy of Richard Feynman, including his role in the Manhattan Project, his development of"
+  },
+  {
+    "prompt_id": "biography_010",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Describe the life and scientific legacy of Richard Feynman, including his role in the Manhattan Project, his development of quantum electrodynamics, his Feynman diagrams, his teaching career at Caltech, and his investigation of the Space Shuttle Challenger disaster.",
+    "method": "llama3.1-8b",
+    "ncr": 0.0,
+    "output": ""
+  },
+  {
+    "prompt_id": "biography_011",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Write a detailed account of Ada Lovelace's life, including her relationship with Charles Babbage, her translation and annotation of Menabrea's article on the Analytical Engine, and why historians consider her contributions significant to the history of computing.",
+    "method": "tinycomma",
+    "ncr": 1.0,
+    "output": ""
+  },
+  {
+    "prompt_id": "biography_011",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Write a detailed account of Ada Lovelace's life, including her relationship with Charles Babbage, her translation and annotation of Menabrea's article on the Analytical Engine, and why historians consider her contributions significant to the history of computing.",
+    "method": "llama3.1-8b",
+    "ncr": 0.0,
+    "output": "Be sure to include the following in your account: 1. The circumstances of her birth and her relationship with her father, the poet Lord Byron. 2. Her education and her interest in mathematics. 3. Her relationship with Charles Babbage and her work on the Analytical Engine. 4. Her translation and annotation of Menabrea's article on the Analytical Engine. 5. Why historians consider her contributions significant to the history of computing."
+  },
+  {
+    "prompt_id": "biography_012",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Provide a detailed biographical overview of Frederick Douglass, including his life as an enslaved person in Maryland, his escape to freedom, his career as an abolitionist speaker and writer, his relationship with Abraham Lincoln, and his diplomatic career.",
+    "method": "tinycomma",
+    "ncr": 1.0,
+    "output": ""
+  },
+  {
+    "prompt_id": "biography_012",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Provide a detailed biographical overview of Frederick Douglass, including his life as an enslaved person in Maryland, his escape to freedom, his career as an abolitionist speaker and writer, his relationship with Abraham Lincoln, and his diplomatic career.",
+    "method": "llama3.1-8b",
+    "ncr": 0.0,
+    "output": "Be sure to include the following in your overview:\nDouglass’s early life as a slave in Maryland\nHis escape to freedom and his life in the North\nHis work as an abolitionist speaker and writer\nHis relationship with Abraham Lincoln\nHis diplomatic career\nYour overview should be at least 500 words in length.\nhttps://myperfecttutors.com/wp-content/uploads/2022/08/logoImage.svg 0 0 Mapy https://myperfecttutors.com/wp-content/uploads/2022/08/logoImage.svg Mapy2022-09-01 19:17:002022-09-01 19:"
+  },
+  {
+    "prompt_id": "biography_013",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Describe the life and work of Lise Meitner, including her long collaboration with Otto Hahn, her role in the discovery of nuclear fission, the reasons she was excluded from the Nobel Prize awarded for that discovery, and her later career in Sweden.",
+    "method": "tinycomma",
+    "ncr": 1.0,
+    "output": "Describe the life and work of Lise Meitner, including her long collaboration with Otto Hahn, her role in the discovery of nuclear fission, the reasons she was excluded from the Nobel Prize awarded for that discovery, and her later career in Sweden.  Describe the life and work of Lise Meitner, including her long collaboration with Otto Hahn, her role in the discovery of nuclear fission, the reasons she was excluded from the Nobel Prize awarded for that discovery, and her later career in Sweden.  Describe the life and work of Lise Meitner, including her long collaboration with Otto Hahn,"
+  },
+  {
+    "prompt_id": "biography_013",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Describe the life and work of Lise Meitner, including her long collaboration with Otto Hahn, her role in the discovery of nuclear fission, the reasons she was excluded from the Nobel Prize awarded for that discovery, and her later career in Sweden.",
+    "method": "llama3.1-8b",
+    "ncr": 0.0,
+    "output": ""
+  },
+  {
+    "prompt_id": "biography_014",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Provide a comprehensive account of John Maynard Keynes's life, including his upbringing at Cambridge, his role at the Paris Peace Conference after World War I, the development of Keynesian economics during the Great Depression, and his influence at the Bretton Woods Conference.",
+    "method": "tinycomma",
+    "ncr": 1.0,
+    "output": "Keynes's life is also the subject of the 2008 film Keynes, directed by Martin Scorsese.\nThe 2008 film Keynes is based on the life of John Maynard Keynes.  What is the name of the 2008 film based on the life of John Maynard Keynes?\nKeynes"
+  },
+  {
+    "prompt_id": "biography_014",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Provide a comprehensive account of John Maynard Keynes's life, including his upbringing at Cambridge, his role at the Paris Peace Conference after World War I, the development of Keynesian economics during the Great Depression, and his influence at the Bretton Woods Conference.",
+    "method": "llama3.1-8b",
+    "ncr": 0.0,
+    "output": ""
+  },
+  {
+    "prompt_id": "biography_015",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Describe the life and career of Claude Shannon, including his education at MIT and the University of Michigan, the development of information theory, his landmark 1948 paper, and his lesser-known work on juggling and unicycling machines.",
+    "method": "tinycomma",
+    "ncr": 1.0,
+    "output": "Describe the impact of Shannon's work on the development of information theory, and the development of the Internet and the World Wide Web.\nClaude Shannon was a brilliant mathematician and physicist who made significant contributions to information theory and the development of the Internet and the World Wide Web. He was born in 1907 in New York City, and received his bachelor's degree from MIT in 1929. He then went on to earn his doctorate from the University of Michigan in 1933, where he studied under the legendary mathematician and physicist, John von Neumann. Shannon's doctoral advisor was the renowned mathematician and physicist, John"
+  },
+  {
+    "prompt_id": "biography_015",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Describe the life and career of Claude Shannon, including his education at MIT and the University of Michigan, the development of information theory, his landmark 1948 paper, and his lesser-known work on juggling and unicycling machines.",
+    "method": "llama3.1-8b",
+    "ncr": 0.0,
+    "output": ""
+  },
+  {
+    "prompt_id": "biography_001",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Provide a comprehensive account of Albert Einstein's life, including his early education, major scientific contributions, personal relationships, immigration to the United States, and his role in the development of modern physics.",
+    "method": "anchored",
+    "k": 0.1,
+    "output": "Describe the scientific method in detail, including the basic concepts of falsifiability and repeatability.\nAlbert Einstein was an extraordinary scientist who made significant contributions to the field of physics. He lived during the era of modern physics, which began around the year 1900 and was characterized by the development of the scientific method, the theory of relativity, and the discovery of the particle theory of matter. Einstein's life was not without controversy, as he was an outspoken critic of many of the scientific advances made in his lifetime. He was also an outspoken advocate of the scientific method, and believed that it was the only way to achieve truth in"
+  },
+  {
+    "prompt_id": "biography_002",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Describe the life and career of Marie Curie, covering her upbringing in Poland, her move to Paris, her scientific discoveries, the Nobel Prizes she received, and the circumstances of her death.",
+    "method": "anchored",
+    "k": 0.1,
+    "output": "Include any important events or influential people that shaped her life or career.\nMarie Curie was born in Poland in 1902 and was raised in a family of intellectuals. She moved to Paris in 1917 and studied physics and mathematics at the Sorbonne, earning a PhD in physics in 1923. In 1924, she became the first woman to receive a PhD in physics from the Sorbonne. Her research focused on radioactivity, and she discovered the radioactivity of uranium and radium. She received the Nobel Prize in Physics in 1928 for her work on radioactivity, which led to the discovery"
+  },
+  {
+    "prompt_id": "biography_003",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Write a detailed biographical account of Charles Darwin, including his voyage on HMS Beagle, the development of his theory of natural selection, the publication of 'On the Origin of Species,' and the public reaction to his ideas.",
+    "method": "anchored",
+    "k": 0.1,
+    "output": "Include details of his home life, his marriage, and his relationship with his family.\nCharles Darwin was born on May 7, 1809, into a family of modest means. He was the second child of Charles Darwin and his wife Mary, née Darwin. Mary Darwin died several years later, leaving Charles to raise her children. Charles struggled with health issues throughout his life, and it was not until his seventeenth birthday that he began to develop a keen interest in natural history. His interest in natural history was sparked by a visit to the London Zoo, where he observed an elephant. His fascination with the animal's behavior led him"
+  },
+  {
+    "prompt_id": "biography_004",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Describe the life of Mahatma Gandhi, including his early years in South Africa, his campaigns for Indian independence, his methods of nonviolent resistance, and the circumstances surrounding his assassination.",
+    "method": "anchored",
+    "k": 0.1,
+    "output": "Include a short description of his personality and legacy.\nMahatma Gandhi was born in the small village of Kapilvastu in the Himalayas mountains, on February 2, 1869. His father was a local farmer and had little contact with the outside world. However, his mother, who was originally from the village of Khandal, was a devout Hindu and had a strong faith in the teachings of the great Hindu reformer, Swami Vivekananda. This connection with the teachings of Swami Vivekananda began Mahatma Gandhi’s spiritual path, as he was introduced to the ideas of nonviolence"
+  },
+  {
+    "prompt_id": "biography_005",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Provide a thorough overview of Abraham Lincoln's life, from his frontier childhood in Kentucky and Indiana, his self-education, his political career in Illinois, his presidency during the Civil War, and his assassination at Ford's Theatre.",
+    "method": "anchored",
+    "k": 0.1,
+    "output": ""
+  },
+  {
+    "prompt_id": "biography_006",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Describe the life and achievements of Leonardo da Vinci, covering his apprenticeship under Verrocchio, his major paintings and sculptures, his scientific notebooks, and his work in anatomy, engineering, and architecture.",
+    "method": "anchored",
+    "k": 0.1,
+    "output": "Include his friendship with Luca Pacioli and his influence on the practice of his colleagues.\nLeonardo da Vinci was born in Florence in 1452 and was brought up in the Medici household. He began his training in the workshop of his master Verrocchio at the age of 19. He was only 20 when he was sent to the studio of Lorenzo di Bicci and was allowed to work under the tutelage of the great master. He was an excellent student, and soon became a master artist. He was well known for his ability to create grand masterpieces of art and architecture. He was also an excellent scientist"
+  },
+  {
+    "prompt_id": "biography_007",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Provide a detailed account of Nikola Tesla's life, including his early education in Serbia, his work with Thomas Edison, his invention of the AC motor, his rivalry with Edison, and his later years in New York.",
+    "method": "anchored",
+    "k": 0.1,
+    "output": ""
+  },
+  {
+    "prompt_id": "biography_008",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Describe the life of Cleopatra VII, including her rise to power in Egypt, her political alliances with Julius Caesar and Mark Antony, the political circumstances of her reign, and the fall of the Ptolemaic dynasty.",
+    "method": "anchored",
+    "k": 0.1,
+    "output": "Be sure to include the story of her assassination by Mark Antony and Cleopatra's lover, Mark Anthony, a fellow officer in Mark Antony's army, in your account.\nCleopatra was an ambitious young woman who rose to power in Egypt and allied herself with the Roman emperor Mark Antony in an attempt to restore the Ptolemaic dynasty to its former status. She became a powerful and influential figure in the region and was eventually murdered by her lover and supporter, Mark Antony.\nCleopatra VII was the last of the Ptolemaic dynasty to rule Egypt for almost 300 years. She was born in"
+  },
+  {
+    "prompt_id": "biography_009",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Provide a detailed biographical account of Rosalind Franklin, including her education at Cambridge, her X-ray crystallography work at King's College London, her contributions to understanding the structure of DNA, and the controversy surrounding the use of her data by Watson and Crick.",
+    "method": "anchored",
+    "k": 0.1,
+    "output": "Describe what she did for the rest of her life, and what her legacy is to science.\nRosalind Franklin was born in 1934 in London, England. She attended Cambridge University, where she studied botany and physics. She completed her Ph.D. in 1956, with a thesis on the structure of DNA. Franklin worked as a scientist at King's College London, where she was a member of the team that used X-ray crystallography to determine the structure of DNA.\nFranklin's career as a scientist spanned over three decades, during which she made contributions to our understanding of the structure of DNA,"
+  },
+  {
+    "prompt_id": "biography_010",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Describe the life and scientific legacy of Richard Feynman, including his role in the Manhattan Project, his development of quantum electrodynamics, his Feynman diagrams, his teaching career at Caltech, and his investigation of the Space Shuttle Challenger disaster.",
+    "method": "anchored",
+    "k": 0.1,
+    "output": "Include major scientific discoveries he made during his career. At least 5 sentences.\nRichard Feynman (February 3, 1918 - March 25, 1988) was an American physicist who made important contributions to quantum theory. Feynman was one of the most influential scientists of the 20th century in the field of quantum theory. He published many papers on this topic and was a key figure in its development. Feynman's work on quantum theory has had a great impact on the fields of physics and mathematics. Some of his most important contributions include the development of the Feynman path integral, the Fey"
+  },
+  {
+    "prompt_id": "biography_011",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Write a detailed account of Ada Lovelace's life, including her relationship with Charles Babbage, her translation and annotation of Menabrea's article on the Analytical Engine, and why historians consider her contributions significant to the history of computing.",
+    "method": "anchored",
+    "k": 0.1,
+    "output": "Discuss the impact of her work on the field of history and society.\nAda Lovelace was born in 1792 in Leominster, England, to a poor family of Welshmen. Her mother died in 1799, and her father remarried in 1803. Although she had no brothers, she had two sisters, which was unusual for the time. Her father, a coal merchant, was an ardent supporter of the radical philosophy of Thomas Paine, which was an influence on her later life. Ada's father died in 1815, and she moved into her father's sister's household in 1819"
+  },
+  {
+    "prompt_id": "biography_012",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Provide a detailed biographical overview of Frederick Douglass, including his life as an enslaved person in Maryland, his escape to freedom, his career as an abolitionist speaker and writer, his relationship with Abraham Lincoln, and his diplomatic career.",
+    "method": "anchored",
+    "k": 0.1,
+    "output": "Provide a summary of his legacy and how he is remembered today.\nFrederick Douglass was born into slavery in Maryland in 1818, and fled to freedom in 1848. He was an abolitionist speaker and writer, and was one of the few African Americans to be a member of the U.S. House of Representatives. He was also a U.S. Ambassador to Great Britain and Haiti. He is remembered today for his legacy of abolitionism and his leadership in the American Civil War."
+  },
+  {
+    "prompt_id": "biography_013",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Describe the life and work of Lise Meitner, including her long collaboration with Otto Hahn, her role in the discovery of nuclear fission, the reasons she was excluded from the Nobel Prize awarded for that discovery, and her later career in Sweden.",
+    "method": "anchored",
+    "k": 0.1,
+    "output": "It should be noted that Lise Meitner was never awarded the Nobel Prize in physics.\nLise Meitner was a Swedish physicist who worked with Otto Hahn. She was a pioneer in the field of nuclear physics, and she discovered the process of nuclear fission, which is the basis of nuclear weapons. Lise Meitner was an important figure in the development of nuclear physics, and she was never awarded the Nobel Prize in physics, but she was recognized for her contributions to science. She is remembered for her collaboration with Otto Hahn, and her work in nuclear physics."
+  },
+  {
+    "prompt_id": "biography_014",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Provide a comprehensive account of John Maynard Keynes's life, including his upbringing at Cambridge, his role at the Paris Peace Conference after World War I, the development of Keynesian economics during the Great Depression, and his influence at the Bretton Woods Conference.",
+    "method": "anchored",
+    "k": 0.1,
+    "output": "Keynes is also known for his debt reduction proposal, which led to the creation of the modern concept of the free market. Consider each of the following points:\n\n\n*Outline of the chapter*"
+  },
+  {
+    "prompt_id": "biography_015",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Describe the life and career of Claude Shannon, including his education at MIT and the University of Michigan, the development of information theory, his landmark 1948 paper, and his lesser-known work on juggling and unicycling machines.",
+    "method": "anchored",
+    "k": 0.1,
+    "output": "I also want to include his mention in the 2004 Nobel Prize in Physics, which comes after the development of information theory, and before his development of the unicycling and juggling machines.\nThe life and career of Claude Shannon include his education at MIT and the University of Michigan, the development of information theory, his landmark 1948 paper, and his lesser-known work on juggling and unicycling machines. Shannon’s contributions to information theory and his work on juggling and unicycling machines are also discussed."
+  },
+  {
+    "prompt_id": "biography_001",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Provide a comprehensive account of Albert Einstein's life, including his early education, major scientific contributions, personal relationships, immigration to the United States, and his role in the development of modern physics.",
+    "method": "anchored",
+    "k": 0.5,
+    "output": "- The 11th Dalai Lama (1821--1836) of Tibet was a very young child when he first took up residence in Lhasa. It was a time of great civil unrest, and the existing Monks were reluctant to give their support to him. In a private audience with the Dalai Lama, the 11th, a young 12 year old, asked for the support of the Monks to help him with governing Tibet. The Monks were so moved that they gave their support. In the following year, an important treaty was signed with China, and the Dalai Lama began to grow in"
+  },
+  {
+    "prompt_id": "biography_002",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Describe the life and career of Marie Curie, covering her upbringing in Poland, her move to Paris, her scientific discoveries, the Nobel Prizes she received, and the circumstances of her death.",
+    "method": "anchored",
+    "k": 0.5,
+    "output": "Make sure your additions are listed in order of importance.\nMarie Curie was born in 1897 in Warsaw, Poland. She was the second daughter of a family of five children. Her father was a professor of mathematics and physics at the Warsaw Technical Institute. Marie Curie was a brilliant student and won gold medals for her scientific achievements. In 1906 she received her doctorate from the Sorbonne University in Paris, France.\nIn 1897, Marie Curie was born in Warsaw, Poland. She was the second daughter of five children. Her father was a professor of mathematics and physics at the Warsaw Technical Institute."
+  },
+  {
+    "prompt_id": "biography_003",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Write a detailed biographical account of Charles Darwin, including his voyage on HMS Beagle, the development of his theory of natural selection, the publication of 'On the Origin of Species,' and the public reaction to his ideas.",
+    "method": "anchored",
+    "k": 0.5,
+    "output": "Describe how Darwin's ideas were received in Europe and America.\nCharles Darwin was born on February 12, 1809 in Shrewsbury, England. His father was a successful doctor and his mother a religious woman. Darwin was the second of six children and was a bright and energetic child. He attended a local school when he was young where he learned Latin and Greek. After his father died, Darwin's uncle, Dr. Samuel, took him in and helped him to finish his education. He attended the University of Edinburgh and studied medicine and natural science. He received his degree in 1827 and then moved to London to become"
+  },
+  {
+    "prompt_id": "biography_004",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Describe the life of Mahatma Gandhi, including his early years in South Africa, his campaigns for Indian independence, his methods of nonviolent resistance, and the circumstances surrounding his assassination.",
+    "method": "anchored",
+    "k": 0.5,
+    "output": "Include the current state of India and its relationship with Pakistan in your description.\nMahatma Gandhi was born in India on October 2, 1869. He was a lawyer by profession, but he devoted his life to the Indian independence movement. He was a strong advocate of nonviolent protest and he was a leader in the movement to get India's independence from Great Britain. He was assassinated on January 30, 1948 in New Delhi by a member of a Hindu nationalist group."
+  },
+  {
+    "prompt_id": "biography_005",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Provide a thorough overview of Abraham Lincoln's life, from his frontier childhood in Kentucky and Indiana, his self-education, his political career in Illinois, his presidency during the Civil War, and his assassination at Ford's Theatre.",
+    "method": "anchored",
+    "k": 0.5,
+    "output": ""
+  },
+  {
+    "prompt_id": "biography_006",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Describe the life and achievements of Leonardo da Vinci, covering his apprenticeship under Verrocchio, his major paintings and sculptures, his scientific notebooks, and his work in anatomy, engineering, and architecture.",
+    "method": "anchored",
+    "k": 0.5,
+    "output": "Include the main aspects of his life as an Italian Renaissance man, and the reasons why he remains an icon among artists and scholars.\nLeonardo da Vinci is one of the most revered names in art history. He has been called the archetype of the Renaissance man, and his works have been studied and admired for centuries. Da Vinci was born in Vinci, Italy, in 1452, and his life spanned the Italian Renaissance, one of the most important periods in Western history. In this essay, we will explore the life and achievements of Leonardo da Vinci, covering his apprenticeship under Verrocchio, his major paintings and sculptures, his"
+  },
+  {
+    "prompt_id": "biography_007",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Provide a detailed account of Nikola Tesla's life, including his early education in Serbia, his work with Thomas Edison, his invention of the AC motor, his rivalry with Edison, and his later years in New York.",
+    "method": "anchored",
+    "k": 0.5,
+    "output": "Describe his political beliefs, and his relationship with the Tesla family in Serbia. Provide a summary of Nikola Tesla's achievements and contributions to science and technology.\nIn 1891, Tesla left the Serbian capital of Belgrade to pursue his education in Budapest. Upon arriving in Hungary, Tesla joined a small community of Serbians in the city, and he was soon involved in the intellectual life of the city, attending lectures by renowned scholars and intellectuals. He also became a regular visitor to the library, where he developed a keen interest in the natural sciences and mathematics. Tesla's education was not limited to the classroom; he also took private lessons in"
+  },
+  {
+    "prompt_id": "biography_008",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Describe the life of Cleopatra VII, including her rise to power in Egypt, her political alliances with Julius Caesar and Mark Antony, the political circumstances of her reign, and the fall of the Ptolemaic dynasty.",
+    "method": "anchored",
+    "k": 0.5,
+    "output": "Include any relevant information about her relationships with her family, such as her brother Ptolemy XIII and her sister Arsinoe IV.\nCleopatra VII was born in 69 BCE, the youngest child of Ptolemy XII, the last of the Ptolemaic dynasty. She was raised alongside her three sisters and brother, who would eventually vie for power in Egypt as Cleopatra’s husband, Mark Antony, and Caesar, who eventually gained control of the country. Cleopatra was educated by her tutor, the philosopher, rhetorician, and playwright Theon. She was also recorded as having studied"
+  },
+  {
+    "prompt_id": "biography_009",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Provide a detailed biographical account of Rosalind Franklin, including her education at Cambridge, her X-ray crystallography work at King's College London, her contributions to understanding the structure of DNA, and the controversy surrounding the use of her data by Watson and Crick.",
+    "method": "anchored",
+    "k": 0.5,
+    "output": "(If she was married, provide a brief account of her marriage).\nRosalind Elsie Franklin was born on 31 May, 1920, in the state of New South Wales, Australia, where her father, Graham, was a practicing physician and her mother, Flora, was a housewife. Despite her parents’ wishes, Rosalind Franklin was determined to become a scientist and rose above the traditional role of women in her family and society.\nRosalind Franklin attended St. Peter’s Girls’ School and the University of Cambridge in England, where she graduated with honors in chemistry in 1941. She continued her"
+  },
+  {
+    "prompt_id": "biography_010",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Describe the life and scientific legacy of Richard Feynman, including his role in the Manhattan Project, his development of quantum electrodynamics, his Feynman diagrams, his teaching career at Caltech, and his investigation of the Space Shuttle Challenger disaster.",
+    "method": "anchored",
+    "k": 0.5,
+    "output": "See also: Richard Feynman and History: The Quest for Quanta (University of Toronto Press, 2017) and the essay about Richard Feynman's life and work by John Rigby (Feynman's Chief Research Scientist, who was also his student, and who was influential in Feynman's decision to join the U.S. Army in World War II, and to continue his studies at Princeton University): \"Feynman in History\""
+  },
+  {
+    "prompt_id": "biography_011",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Write a detailed account of Ada Lovelace's life, including her relationship with Charles Babbage, her translation and annotation of Menabrea's article on the Analytical Engine, and why historians consider her contributions significant to the history of computing.",
+    "method": "anchored",
+    "k": 0.5,
+    "output": ""
+  },
+  {
+    "prompt_id": "biography_012",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Provide a detailed biographical overview of Frederick Douglass, including his life as an enslaved person in Maryland, his escape to freedom, his career as an abolitionist speaker and writer, his relationship with Abraham Lincoln, and his diplomatic career.",
+    "method": "anchored",
+    "k": 0.5,
+    "output": "You should not give the same information in every section of the biography. You will need to choose what information you include in each section. This will be your task.\nFrederick Douglass was born into slavery on February 14, 1818, in the state of Maryland. He received little to no formal education, but he was taught to read and write by his owner. As a young boy, he was often punished for his refusal to obey his owner, but he remained determined to learn and secure his freedom. In 1838, he escaped to freedom in New York City and began working as an agent for the abolitionist"
+  },
+  {
+    "prompt_id": "biography_013",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Describe the life and work of Lise Meitner, including her long collaboration with Otto Hahn, her role in the discovery of nuclear fission, the reasons she was excluded from the Nobel Prize awarded for that discovery, and her later career in Sweden.",
+    "method": "anchored",
+    "k": 0.5,
+    "output": "Link to a short summary of Meitner’s life at the site of the Lise Meitner Award Foundation, and to a biography at the site of the Max Planck Institute. Describe the life and work of Otto Hahn, including his long collaboration with Lise Meitner, his role in the discovery of nuclear fission, the reasons he was awarded the Nobel Prize for that discovery, and his later career. Link to a short summary of Hahn’s life at the site of the Lise Meitner Award Foundation, and to a biography at the site of the Max Planck Institute. Describe the lives and careers"
+  },
+  {
+    "prompt_id": "biography_014",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Provide a comprehensive account of John Maynard Keynes's life, including his upbringing at Cambridge, his role at the Paris Peace Conference after World War I, the development of Keynesian economics during the Great Depression, and his influence at the Bretton Woods Conference.",
+    "method": "anchored",
+    "k": 0.5,
+    "output": "You can also provide an overview of his economic principles and the impact of his ideas on the course of economic history.\nJohn Maynard Keynes was a prominent British economist who played a crucial role in shaping the modern economic system. He was born into a wealthy family in Cambridge, England, in 1883, and studied at Eton and King's College, Cambridge, where he became one of the leading economists of his time.\nKeynes's economic theory was based on the idea that the government should intervene in the economy to stabilize prices and ensure that people had enough money to buy the goods they needed. He was a strong advocate of the free"
+  },
+  {
+    "prompt_id": "biography_015",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Describe the life and career of Claude Shannon, including his education at MIT and the University of Michigan, the development of information theory, his landmark 1948 paper, and his lesser-known work on juggling and unicycling machines.",
+    "method": "anchored",
+    "k": 0.5,
+    "output": "Make sure to include details about his early years, his upbringing, and his contributions to mathematics and computer science.\nClaude Shannon was an American mathematician and electrical engineer who is widely regarded as the father of information theory. He was born on April 30, 1916, in Michigan and grew up in a family with a strong interest in mathematics and science. Shannon attended the University of Michigan and earned a bachelor’s degree in mathematics in 1936. He then moved to MIT, where he earned a master’s degree in electrical engineering in 1938 and a Ph.D. in mathematics in 1940.\nIn 1941"
+  },
+  {
+    "prompt_id": "biography_001",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Provide a comprehensive account of Albert Einstein's life, including his early education, major scientific contributions, personal relationships, immigration to the United States, and his role in the development of modern physics.",
+    "method": "anchored",
+    "k": 1.0,
+    "output": "Your article should not be longer than 2500 words, and include at least three high-resolution images illustrating key concepts or events associated with Einstein's life. Use MLA citation style for any sources used in your article (e.g., newspapers, books)."
+  },
+  {
+    "prompt_id": "biography_002",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Describe the life and career of Marie Curie, covering her upbringing in Poland, her move to Paris, her scientific discoveries, the Nobel Prizes she received, and the circumstances of her death.",
+    "method": "anchored",
+    "k": 1.0,
+    "output": "Describe how her two daughters, Marie and Irène, were involved in the scientific discoveries made by their mother and their father, Pierre Curie, focusing on the discovery of artificial radioactivity in 1934.\nMarie Curie was born on November 7, 1867, in Poland. Her name prior to getting married was Maria Sklodowska. Her father was an educator and he wanted his daughter to become one as well. While at school, Marie discovered that she loved science and math, however, her father insisted that she get a teaching degree. Marie went to school to become an educator while also studying sciences on the"
+  },
+  {
+    "prompt_id": "biography_003",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Write a detailed biographical account of Charles Darwin, including his voyage on HMS Beagle, the development of his theory of natural selection, the publication of 'On the Origin of Species,' and the public reaction to his ideas.",
+    "method": "anchored",
+    "k": 1.0,
+    "output": "Painters and sculptors have captured Darwin's image in many ways. Researcher : Charles Darwin. In 1858, Darwin was appointed an honorary member of the Royal Society of London. Darwin was born in Shrewsbury, Shropshire, England, on February 12, 1809, the fifth and youngest child of a prominent medical doctor, Robert Darwin. This book is the biography of one of the most important figures in the history of science. Charles Robert Darwin was born on 12 February 1809 in Shrewsbury, England, to Robert and Susannah Darwin. This biography profiles his childhood, life"
+  },
+  {
+    "prompt_id": "biography_004",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Describe the life of Mahatma Gandhi, including his early years in South Africa, his campaigns for Indian independence, his methods of nonviolent resistance, and the circumstances surrounding his assassination.",
+    "method": "anchored",
+    "k": 1.0,
+    "output": "Include the impact of Gandhi's philosophy, including nonviolent resistance, on the Civil Rights Movement.\nMahatma Gandhi was born Mohandas Karamchand Gandhi on October 2, 1869, in Porbandar, India. His father was a Hindu and his mother a Jain. When he was thirteen, Gandhi was married to Kastur, a cousin. He was a shy boy, and took refuge in books.\nAt age eighteen, Gandhi moved to London to study law. He returned to India after three years and was appointed editor of a newspaper. He was also a lawyer, but he soon became bored with that profession"
+  },
+  {
+    "prompt_id": "biography_005",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Provide a thorough overview of Abraham Lincoln's life, from his frontier childhood in Kentucky and Indiana, his self-education, his political career in Illinois, his presidency during the Civil War, and his assassination at Ford's Theatre.",
+    "method": "anchored",
+    "k": 1.0,
+    "output": ""
+  },
+  {
+    "prompt_id": "biography_006",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Describe the life and achievements of Leonardo da Vinci, covering his apprenticeship under Verrocchio, his major paintings and sculptures, his scientific notebooks, and his work in anatomy, engineering, and architecture.",
+    "method": "anchored",
+    "k": 1.0,
+    "output": "Include links to sources that support your information.\nDa Vinci’s Life and Achievements\nLeonardo da Vinci was an Italian polymath who lived during the Renaissance era. He was a painter, sculptor, architect, engineer, scientist, and inventor. He is widely regarded as one of the greatest minds of all time and his contributions to the fields of art, science, and technology are still studied and admired today. In this essay, I will discuss the life and achievements of Leonardo da Vinci.\nLeonardo was born on April 15, 1452, in the small town of Vinci, near Florence, Italy. His father, Pier"
+  },
+  {
+    "prompt_id": "biography_007",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Provide a detailed account of Nikola Tesla's life, including his early education in Serbia, his work with Thomas Edison, his invention of the AC motor, his rivalry with Edison, and his later years in New York.",
+    "method": "anchored",
+    "k": 1.0,
+    "output": "Describe his work on wireless transmission of energy, his invention of the Tesla coil, and his experiments with radio waves. Mention his contributions to the field of electricity and his legacy as a visionary inventor.\nNikola Tesla's Life and Contributions to the Field of Electricity\nNikola Tesla was a Serbian-American inventor and engineer best known for his revolutionary inventions in the field of electricity. His work on alternating current (AC) motors, transformers, and the Tesla coil revolutionized the world of electrical engineering and laid the foundation for modern power distribution systems. Despite facing financial difficulties and criticism from his contemporaries, Tesla's contributions to the field of electricity"
+  },
+  {
+    "prompt_id": "biography_008",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Describe the life of Cleopatra VII, including her rise to power in Egypt, her political alliances with Julius Caesar and Mark Antony, the political circumstances of her reign, and the fall of the Ptolemaic dynasty.",
+    "method": "anchored",
+    "k": 1.0,
+    "output": "Describe the political and physical geography of the Roman Empire, including its relationship to the eastern Mediterranean and the Black Sea, its cities, and its provinces. Describe the social and economic structure of the Roman Empire, the status of women, and the lives of the peasantry, urban artisans, and the wealthy. Describe the structure of the Roman government, including the Senate, the Roman people, the army, and the civil service. Describe the religious beliefs of the Romans, including the role of the Roman state in religion, the religious practices of the common people, and the social function of the priesthood. Describe the intellectual life of the Romans, including"
+  },
+  {
+    "prompt_id": "biography_009",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Provide a detailed biographical account of Rosalind Franklin, including her education at Cambridge, her X-ray crystallography work at King's College London, her contributions to understanding the structure of DNA, and the controversy surrounding the use of her data by Watson and Crick.",
+    "method": "anchored",
+    "k": 1.0,
+    "output": "Describe her work on the structure of viruses and her involvement in the development of the polio vaccine. Analyze the factors that contributed to her exclusion from the Nobel Prize in Physiology or Medicine.\nIn the early 1950s, a young scientist named Rosalind Franklin played a critical role in the discovery of the structure of DNA, one of the most important scientific breakthroughs of the 20th century. However, her contributions were largely overlooked, and she did not receive any recognition for her work until decades later, after her death.\nFranklin was born in London in 1920 and studied physics at Cambridge University. Her research focused"
+  },
+  {
+    "prompt_id": "biography_010",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Describe the life and scientific legacy of Richard Feynman, including his role in the Manhattan Project, his development of quantum electrodynamics, his Feynman diagrams, his teaching career at Caltech, and his investigation of the Space Shuttle Challenger disaster.",
+    "method": "anchored",
+    "k": 1.0,
+    "output": "At a minimum, mention the important contributions he made in the fields of physics and mathematics.\nRichard Feynman (1918-1988) was a Nobel Prize-winning theoretical physicist who contributed greatly to the development of quantum electrodynamics (QED), which describes the interaction of charged particles, such as electrons, with the electromagnetic field. He is best known for his groundbreaking work on QED, but he also made important contributions to the fields of physics and mathematics.\nFeynman was born in New York City on May 11, 1918. He attended the Massachusetts Institute of Technology (MIT) and received his bachelor’s degree"
+  },
+  {
+    "prompt_id": "biography_011",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Write a detailed account of Ada Lovelace's life, including her relationship with Charles Babbage, her translation and annotation of Menabrea's article on the Analytical Engine, and why historians consider her contributions significant to the history of computing.",
+    "method": "anchored",
+    "k": 1.0,
+    "output": ""
+  },
+  {
+    "prompt_id": "biography_012",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Provide a detailed biographical overview of Frederick Douglass, including his life as an enslaved person in Maryland, his escape to freedom, his career as an abolitionist speaker and writer, his relationship with Abraham Lincoln, and his diplomatic career.",
+    "method": "anchored",
+    "k": 1.0,
+    "output": "Describe his role in the Women's Rights Movement and his engagement with the civil rights movement of the 1950's and 1960's. Evaluate the impact of Douglass' work on the abolitionist movement and the lives of former slaves. Analyze the role of ideological and rhetorical appeals in Douglass' speeches."
+  },
+  {
+    "prompt_id": "biography_013",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Describe the life and work of Lise Meitner, including her long collaboration with Otto Hahn, her role in the discovery of nuclear fission, the reasons she was excluded from the Nobel Prize awarded for that discovery, and her later career in Sweden.",
+    "method": "anchored",
+    "k": 1.0,
+    "output": "Summarize the important contributions of the two discoverers of the nucleus, but note that this work was done before Meitner's discoveries.\nThe Swedish-born physicist Lise Meitner (1878-1968) was a major figure in the development of atomic theory and nuclear physics. A pioneering experimental physicist, she is best known for her work with Otto Hahn in the discovery of nuclear fission in 1938. She was one of the few female physicists in her generation and became an international leader in her field. Despite her important work, Meitner was excluded from the Nobel Prize awarded in 1944 for the"
+  },
+  {
+    "prompt_id": "biography_014",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Provide a comprehensive account of John Maynard Keynes's life, including his upbringing at Cambridge, his role at the Paris Peace Conference after World War I, the development of Keynesian economics during the Great Depression, and his influence at the Bretton Woods Conference.",
+    "method": "anchored",
+    "k": 1.0,
+    "output": "Provide a concise overview of the post-Keynesian economics of the 1970s and 1980s, drawing on the works of Joan Robinson, Michal Kalecki, and Nicholas Kaldor.\nIsaac Newton, the father of classical mechanics, was one of the most prominent scientists of his time. His discovery of the law of universal gravitation was a significant breakthrough in the field of physics. Newton's work on calculus and optics also contributed greatly to the advancement of science. He was known for his meticulous work and his contributions to the field of mechanics.\nWhat was Keynes most influential contribution?\nWhat was Keynes most influential contribution?"
+  },
+  {
+    "prompt_id": "biography_015",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Describe the life and career of Claude Shannon, including his education at MIT and the University of Michigan, the development of information theory, his landmark 1948 paper, and his lesser-known work on juggling and unicycling machines.",
+    "method": "anchored",
+    "k": 1.0,
+    "output": ""
+  },
+  {
+    "prompt_id": "biography_001",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Provide a comprehensive account of Albert Einstein's life, including his early education, major scientific contributions, personal relationships, immigration to the United States, and his role in the development of modern physics.",
+    "method": "anchored",
+    "k": 2.0,
+    "output": ""
+  },
+  {
+    "prompt_id": "biography_002",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Describe the life and career of Marie Curie, covering her upbringing in Poland, her move to Paris, her scientific discoveries, the Nobel Prizes she received, and the circumstances of her death.",
+    "method": "anchored",
+    "k": 2.0,
+    "output": "Use 5-8 sentences.\nIn 1995, Marie Curie became the first woman to win a Nobel Prize, and the only woman to win in two fields — physics in 1903, and chemistry in 1911.\nIn 1898, she and her husband, Pierre Curie, discovered radium, one of the most dangerous materials in the world.\nIn 1904, she was the first woman to become a professor at the Sorbonne.\nIn 1911, she won the Nobel Prize in Chemistry for her research on radioactivity.\nDuring World War I, she founded mobile X-ray units to treat"
+  },
+  {
+    "prompt_id": "biography_003",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Write a detailed biographical account of Charles Darwin, including his voyage on HMS Beagle, the development of his theory of natural selection, the publication of 'On the Origin of Species,' and the public reaction to his ideas.",
+    "method": "anchored",
+    "k": 2.0,
+    "output": "Also include his theory of natural selection.\nWhat was the Galapagos Islands and how did they influence Darwin's theory?\nHow did Charles Darwin's theory of natural selection affect the development of evolutionary biology?\nHow was Charles Darwin's theory of natural selection received in the scientific community?\nWhat was the impact of Charles Darwin's theory of natural selection on the scientific community?\nHow did Charles Darwin's theory of natural selection challenge the existing scientific consensus?\nWhat were some of the key arguments offered by Charles Darwin to support his theory of natural selection?\nHow did Charles Darwin's theory of natural selection influence the development of modern evolutionary theory?\nWhat are some of the"
+  },
+  {
+    "prompt_id": "biography_004",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Describe the life of Mahatma Gandhi, including his early years in South Africa, his campaigns for Indian independence, his methods of nonviolent resistance, and the circumstances surrounding his assassination.",
+    "method": "anchored",
+    "k": 2.0,
+    "output": "I'm turning this in tomorrow, I just need someone to look over what I wrote and tell me if it is correct.\nIn the year 1869 in a Gujarati village in India a child was born, who was to become the greatest revolutionary India has ever known. Though his birth was not in any way unusual, his early childhood was. His mother wanted him to live a simple life, and so he grew up in a religious family, surrounded by the teachings of the Hindu holy books. His name was Mohandas Karamchand Gandhi.\nAs a boy he was very shy and studious. He learned everything he could from"
+  },
+  {
+    "prompt_id": "biography_005",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Provide a thorough overview of Abraham Lincoln's life, from his frontier childhood in Kentucky and Indiana, his self-education, his political career in Illinois, his presidency during the Civil War, and his assassination at Ford's Theatre.",
+    "method": "anchored",
+    "k": 2.0,
+    "output": ""
+  },
+  {
+    "prompt_id": "biography_006",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Describe the life and achievements of Leonardo da Vinci, covering his apprenticeship under Verrocchio, his major paintings and sculptures, his scientific notebooks, and his work in anatomy, engineering, and architecture.",
+    "method": "anchored",
+    "k": 2.0,
+    "output": "Include information about his work for the Medici and the Sforza families, his experiments in flight, and his life and death.\nLeonardo da Vinci was an artist, architect, engineer, and inventor.\nHe was born in Italy in 1452, and worked for the Medici family in Florence.\nHe was known for his paintings, including the Mona Lisa and the Last Supper.\nHe also designed many inventions, including the helicopter, the tank, and a flying machine.\nHe died in France in 1519.\nLeonardo da Vinci was an Italian polymath of the Renaissance, active as a painter, draughtsman"
+  },
+  {
+    "prompt_id": "biography_007",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Provide a detailed account of Nikola Tesla's life, including his early education in Serbia, his work with Thomas Edison, his invention of the AC motor, his rivalry with Edison, and his later years in New York.",
+    "method": "anchored",
+    "k": 2.0,
+    "output": "Be sure to include at least three significant facts from the readings.\nTesla's early education in Serbia: Tesla was born in Smiljan, Croatia, in 1856 and received his early education there. He was a bright student and showed a keen interest in science and math. He also attended the Technical School in Graz, Austria, where he studied physics, mathematics, and engineering.\nTesla's work with Thomas Edison: After completing his education, Tesla moved to the United States in 1884 to work for Thomas Edison. However, Tesla had a different vision for the future of electricity and disagreed with Edison's approach of using direct current ("
+  },
+  {
+    "prompt_id": "biography_008",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Describe the life of Cleopatra VII, including her rise to power in Egypt, her political alliances with Julius Caesar and Mark Antony, the political circumstances of her reign, and the fall of the Ptolemaic dynasty.",
+    "method": "anchored",
+    "k": 2.0,
+    "output": "Describe her impact on the Greco-Roman world.\nDescribe the life of Cleopatra VII, including her rise to power in Egypt, her political alliances with Julius Caesar and Mark Antony, the political circumstances of her reign, and the fall of the Ptolemaic dynasty. Describe her impact on the Greco-Roman world.\nThis paper is for the course World History since 1450. Please read the attached instructions before bidding. I have attached a sample paper for you to see the format. Please note that it is not about Cleopatra VII, but about Cleopatra VII's political impact on Greco-Roman"
+  },
+  {
+    "prompt_id": "biography_009",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Provide a detailed biographical account of Rosalind Franklin, including her education at Cambridge, her X-ray crystallography work at King's College London, her contributions to understanding the structure of DNA, and the controversy surrounding the use of her data by Watson and Crick.",
+    "method": "anchored",
+    "k": 2.0,
+    "output": "Describe their reactions upon seeing Franklin's X-ray diffraction image of DNA. John Cairns, a colleague of Franklin's, reacted to her findings in much the same way. He commented that it was \"the most beautiful x-ray photograph of a piece of biological material ever taken.\" How does information gained from Franklin's work contribute to our modern understanding of DNA replication and repair?"
+  },
+  {
+    "prompt_id": "biography_010",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Describe the life and scientific legacy of Richard Feynman, including his role in the Manhattan Project, his development of quantum electrodynamics, his Feynman diagrams, his teaching career at Caltech, and his investigation of the Space Shuttle Challenger disaster.",
+    "method": "anchored",
+    "k": 2.0,
+    "output": "Focus on the Nobel Prize winning physicist's contributions to quantum electrodynamics.  Describe the Feynman diagrams and explain their significance to the field of quantum physics.  Discuss the Feynman lectures and his work on the Challenger disaster.  Explain why Feynman is considered one of the greatest physicists of the twentieth century."
+  },
+  {
+    "prompt_id": "biography_011",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Write a detailed account of Ada Lovelace's life, including her relationship with Charles Babbage, her translation and annotation of Menabrea's article on the Analytical Engine, and why historians consider her contributions significant to the history of computing.",
+    "method": "anchored",
+    "k": 2.0,
+    "output": "Be sure to include the story of Babbage's story of the demon of the arithmetic engine in your account."
+  },
+  {
+    "prompt_id": "biography_012",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Provide a detailed biographical overview of Frederick Douglass, including his life as an enslaved person in Maryland, his escape to freedom, his career as an abolitionist speaker and writer, his relationship with Abraham Lincoln, and his diplomatic career.",
+    "method": "anchored",
+    "k": 2.0,
+    "output": "In addition, discuss how Douglass’ experiences as a slave influenced his thinking and ultimately led him to become a leader in the anti-slavery movement in the United States.\nFrederick Douglass was a prominent abolitionist, orator, author, and diplomat who fought for the rights of African Americans. He was born into slavery in Talbot County, Maryland, in 1818. As a young man, he escaped from slavery and became a leader in the abolitionist movement. He was a powerful advocate for the rights of African Americans and was a leading figure in the fight for equal rights for all people.\nDouglass was a prolific"
+  },
+  {
+    "prompt_id": "biography_013",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Describe the life and work of Lise Meitner, including her long collaboration with Otto Hahn, her role in the discovery of nuclear fission, the reasons she was excluded from the Nobel Prize awarded for that discovery, and her later career in Sweden.",
+    "method": "anchored",
+    "k": 2.0,
+    "output": "Start with the 1938 Nobel Prize announcement and work back in time to the discovery of nuclear fission around 1939.\nPlease respond to this question in a minimum of 200 words.\nhttps://myessayhero.com/wp-content/uploads/2020/03/logo-big-1.png 0 0 admin https://myessayhero.com/wp-content/uploads/2020/03/logo-big-1.png admin2021-06-17 15:07:062021-06-17 15:07:06Describe the life and work of Lise Meitner, including her long collaboration with Otto Hahn, her"
+  },
+  {
+    "prompt_id": "biography_014",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Provide a comprehensive account of John Maynard Keynes's life, including his upbringing at Cambridge, his role at the Paris Peace Conference after World War I, the development of Keynesian economics during the Great Depression, and his influence at the Bretton Woods Conference.",
+    "method": "anchored",
+    "k": 2.0,
+    "output": "Keynes's life was one of extraordinary intellectual achievement, with his ideas having a profound influence on twentieth-century economic policy.\nJohn Maynard Keynes was a British economist and philosopher who had a profound impact on global economic policy in the 20th century. He is best known for his work on the Keynesian Revolution and his role in the Bretton Woods Conference of 1944. Keynes's life was marked by significant events, including his upbringing at Cambridge University, his role at the Paris Peace Conference after World War I, the development of Keynesian economics during the Great Depression, and his influence at the Bretton Woods Conference. This article provides a"
+  },
+  {
+    "prompt_id": "biography_015",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Describe the life and career of Claude Shannon, including his education at MIT and the University of Michigan, the development of information theory, his landmark 1948 paper, and his lesser-known work on juggling and unicycling machines.",
+    "method": "anchored",
+    "k": 2.0,
+    "output": "Let $N$ denote the number of binary digits in the representation of $mn$. Describes the development of the first electronic digital computer, the ENIAC, which was developed in 1943 at the University of Pennsylvania under the direction of John Mauchly and J. Presper Eckert. (2) The results of this section are based on Stechkin [1, §1], but the proof is different. What does it mean when the square of an integer is not a perfect square? A. In 1865, Claude Chappe, the son of French inventor Claude Chappe, published a paper in the"
+  },
+  {
+    "prompt_id": "biography_001",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Provide a comprehensive account of Albert Einstein's life, including his early education, major scientific contributions, personal relationships, immigration to the United States, and his role in the development of modern physics.",
+    "method": "anchored",
+    "k": 4.0,
+    "output": "- 1\n5 - 10  - 1\n5 - 10  - 1\n5 - 10  - 1\n5 - 10  - 1\n5 - 10  - 1\n5 - 10  - 1"
+  },
+  {
+    "prompt_id": "biography_002",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Describe the life and career of Marie Curie, covering her upbringing in Poland, her move to Paris, her scientific discoveries, the Nobel Prizes she received, and the circumstances of her death.",
+    "method": "anchored",
+    "k": 4.0,
+    "output": "Also, include information about her daughter, Irene Joliot-Curie, who was a chemist and won a Nobel Prize in Chemistry.\nThe term “Curie” is known to everyone who has heard of nuclear energy. Marie Curie was the first woman to win a Nobel Prize, and the first person and the only woman to win two Nobel Prizes. She was also the first woman to become a professor at the University of Paris. Marie Curie is known for her discovery of two elements, polonium and radium. She was also the first woman to teach at the Sorbonne University in Paris. Her daughter Ir"
+  },
+  {
+    "prompt_id": "biography_003",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Write a detailed biographical account of Charles Darwin, including his voyage on HMS Beagle, the development of his theory of natural selection, the publication of 'On the Origin of Species,' and the public reaction to his ideas.",
+    "method": "anchored",
+    "k": 4.0,
+    "output": "List at least five specific data or observations that led Darwin to develop his theory of evolution.\nCharles Darwin (12 February 1809 &ndash; 19 April 1882) was an English naturalist and geologist, famous for his theory of evolution which was published in his book &lsquo;On the Origin of Species&rsquo;. Darwin was a self-educated individual who was born into a prominent family of physicians and naturalists. He did not know the term evolution then; what he knew was the term transmutation of species. At that time it was believed that the world was not created by God and that things had"
+  },
+  {
+    "prompt_id": "biography_004",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Describe the life of Mahatma Gandhi, including his early years in South Africa, his campaigns for Indian independence, his methods of nonviolent resistance, and the circumstances surrounding his assassination.",
+    "method": "anchored",
+    "k": 4.0,
+    "output": "Use this information to describe the major beliefs and practices of Hinduism."
+  },
+  {
+    "prompt_id": "biography_005",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Provide a thorough overview of Abraham Lincoln's life, from his frontier childhood in Kentucky and Indiana, his self-education, his political career in Illinois, his presidency during the Civil War, and his assassination at Ford's Theatre.",
+    "method": "anchored",
+    "k": 4.0,
+    "output": ""
+  },
+  {
+    "prompt_id": "biography_006",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Describe the life and achievements of Leonardo da Vinci, covering his apprenticeship under Verrocchio, his major paintings and sculptures, his scientific notebooks, and his work in anatomy, engineering, and architecture.",
+    "method": "anchored",
+    "k": 4.0,
+    "output": "Discuss the impact of his work on later artists and on the development of science.\nExplain how Machiavelli and Savonarola differ with respect to the nature of the state, and to the role of religion in politics. Refer in particular to the themes of individual and community, liberty and responsibility, and rationality and emotion.\nDiscuss the arguments of Voltaire, Rousseau, and Montesquieu on the nature of the state, and on the roles of convention, reason, and sentiment in public life. Refer in particular to the themes of individual and community, liberty and responsibility, and rationality and emotion.\nDiscuss the"
+  },
+  {
+    "prompt_id": "biography_007",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Provide a detailed account of Nikola Tesla's life, including his early education in Serbia, his work with Thomas Edison, his invention of the AC motor, his rivalry with Edison, and his later years in New York.",
+    "method": "anchored",
+    "k": 4.0,
+    "output": ""
+  },
+  {
+    "prompt_id": "biography_008",
+    "domain": "biography",
+    "difficulty": "easy",
+    "prompt": "Describe the life of Cleopatra VII, including her rise to power in Egypt, her political alliances with Julius Caesar and Mark Antony, the political circumstances of her reign, and the fall of the Ptolemaic dynasty.",
+    "method": "anchored",
+    "k": 4.0,
+    "output": "In your answer, discuss the role of Cleopatra's beauty and charisma in her political life.\nDescribe the life of Cleopatra VII, including her rise to power in Egypt, her political alliances with Julius Caesar and Mark Antony, the political circumstances of her reign, and the fall of the Ptolemaic dynasty. In your answer, discuss the role of Cleopatra's beauty and charisma in her political life. Cleopatra was born in 69 BC and died in 30 BC. Cleopatra's father was Ptolemy XII Auletes. Her mother was Cleopatra VI Tryhphaena"
+  },
+  {
+    "prompt_id": "biography_009",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Provide a detailed biographical account of Rosalind Franklin, including her education at Cambridge, her X-ray crystallography work at King's College London, her contributions to understanding the structure of DNA, and the controversy surrounding the use of her data by Watson and Crick.",
+    "method": "anchored",
+    "k": 4.0,
+    "output": "While you may use secondary sources for this, the assignment requires you to use the primary sources listed below in your analysis.\nFranklin, Rosalind. Letter to M.H.F. Wilkins, 25 March 1952. NA 102\nFranklin, Rosalind. Letter to M.H.F. Wilkins, 4 April 1952. NA 107\nFranklin, Rosalind. Letter to M.H.F. Wilkins, 16 April 1952. NA 117\nFranklin, Rosalind. Letter to M.H.F. Wilkins, 28 May 1952."
+  },
+  {
+    "prompt_id": "biography_010",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Describe the life and scientific legacy of Richard Feynman, including his role in the Manhattan Project, his development of quantum electrodynamics, his Feynman diagrams, his teaching career at Caltech, and his investigation of the Space Shuttle Challenger disaster.",
+    "method": "anchored",
+    "k": 4.0,
+    "output": "Describe the life and scientific legacy of Richard Feynman, including his role in the Manhattan Project, his development of quantum electrodynamics, his Feynman diagrams, his teaching career at Caltech, and his investigation of the Space Shuttle Challenger disaster.\nDo you want to learn what makes the world go round?  Take this Physics course and discover how to calculate the effects of gravity, how to model the motion of heavenly bodies, and how to calculate the immense power of the atom bomb. You will learn how to use the equations of motion to calculate the paths of projectiles and how to calculate the force of a spring using Hooke’s"
+  },
+  {
+    "prompt_id": "biography_011",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Write a detailed account of Ada Lovelace's life, including her relationship with Charles Babbage, her translation and annotation of Menabrea's article on the Analytical Engine, and why historians consider her contributions significant to the history of computing.",
+    "method": "anchored",
+    "k": 4.0,
+    "output": "Include in your account a list of her key accomplishments and significant contributions to the Analytical Engine and beyond.\nAda Lovelace was born in 1815 in London England, daughter of the famous poet Lord Byron. Her mother, Lady Byron, was an excellent mathematician and took Ada’s mathematical education seriously. Lady Byron was worried that her daughter would follow her father’s lead and become a poet (and likely end up terrible), so she hired tutors to teach her mathematics and philosophy. Ada’s mathematical ability and interest were evident from a young age, and she quickly surpassed her tutors in mathematical knowledge.\nIn 1833, Ada married William"
+  },
+  {
+    "prompt_id": "biography_012",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Provide a detailed biographical overview of Frederick Douglass, including his life as an enslaved person in Maryland, his escape to freedom, his career as an abolitionist speaker and writer, his relationship with Abraham Lincoln, and his diplomatic career.",
+    "method": "anchored",
+    "k": 4.0,
+    "output": ""
+  },
+  {
+    "prompt_id": "biography_013",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Describe the life and work of Lise Meitner, including her long collaboration with Otto Hahn, her role in the discovery of nuclear fission, the reasons she was excluded from the Nobel Prize awarded for that discovery, and her later career in Sweden.",
+    "method": "anchored",
+    "k": 4.0,
+    "output": ""
+  },
+  {
+    "prompt_id": "biography_014",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Provide a comprehensive account of John Maynard Keynes's life, including his upbringing at Cambridge, his role at the Paris Peace Conference after World War I, the development of Keynesian economics during the Great Depression, and his influence at the Bretton Woods Conference.",
+    "method": "anchored",
+    "k": 4.0,
+    "output": ""
+  },
+  {
+    "prompt_id": "biography_015",
+    "domain": "biography",
+    "difficulty": "medium",
+    "prompt": "Describe the life and career of Claude Shannon, including his education at MIT and the University of Michigan, the development of information theory, his landmark 1948 paper, and his lesser-known work on juggling and unicycling machines.",
+    "method": "anchored",
+    "k": 4.0,
+    "output": "Also, describe the life and career of Herbert Simon, including his education at the University of Chicago and the development of the field of artificial intelligence."
+  }
+]
